@@ -36,20 +36,6 @@ and success criteria  of our project.
 3. Performed ETL and data cleaning on the imported data.
 4. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
 5. Created measure for needs and used them for creating visuals in PowerBi.
-6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
-
-## Final result 
-
-#### Initial Dashboard
-
----
-<img src="https://github.com/jks619/AtliQ-Sales-Insights-PowerBI-Dashboard/blob/main/Initial%20report.png" width="550" class="center">
-
-#### Updated Dashboard
-
----
-<img src="https://github.com/jks619/AtliQ-Sales-Insights-PowerBI-Dashboard/blob/main/Final%20report.png" width="550" class="center">
-
-
+  
 
 
